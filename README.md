@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA & Web3 frameworks!!
 - 📫 How to reach me : biren.badrakiya06@gmail.com
 - My Skills:
-- [![languages](https://skillicons.dev/icons?i=html,css,js,py,java,c,cs,cpp,php,nodejs,jquery,figma&theme=light&perline=5)](https://skillicons.dev)
+ [![languages](https://skillicons.dev/icons?i=html,css,js,py,java,c,cs,cpp,php,nodejs,jquery,figma&theme=light&perline=5)](https://skillicons.dev)
 
 - [![Frameworks](https://skillicons.dev/icons?i=nodejs,&theme=light&perline=10)](https://skillicons.dev)
 
