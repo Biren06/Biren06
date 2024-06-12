@@ -4,7 +4,8 @@
 - 📫 How to reach me : biren.badrakiya06@gmail.com
 - My Skills:
 
-- Languages: [![languages](https://skillicons.dev/icons?i=html,css,js,py,java,c,cs,cpp,php,&theme=light&perline=10)](https://skillicons.dev)
+- Languages-
+- [![languages](https://skillicons.dev/icons?i=html,css,js,py,java,c,cs,cpp,php,&theme=light&perline=10)](https://skillicons.dev)
 
 - [![Frameworks](https://skillicons.dev/icons?i=nodejs,&theme=light&perline=10)](https://skillicons.dev)
 
