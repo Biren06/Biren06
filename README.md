@@ -7,7 +7,7 @@
 - [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,php,js,html,css&theme=dark)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=npm,nodejs,express,react,bash&theme=dark)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=dark)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,figma,discord&theme=dark)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,figma&theme=dark)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,mint,windows&theme=dark)](https://skillicons.dev)
 <!---
 Biren06/Biren06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
