@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning and developing new projects!!
 - 🌱 I’m currently learning DSA and Web frameworks!!
 - 📫 How to reach me : email - biren.badrakiya06@gmail.com
-- 😄 Pronouns: Biren
+  
 - My Skills are:
 - [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,php,js,html,css&theme=dark)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=npm,nodejs,express,react,bash&theme=dark)](https://skillicons.dev)
