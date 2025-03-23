@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA and Web frameworks!!
 - 📫 How to reach me : email - biren.badrakiya06@gmail.com
   
-- My Skills are:
+- Skills Set:
 - [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,php,js,html,css&theme=dark)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=npm,nodejs,express,react,bash&theme=dark)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=dark)](https://skillicons.dev)
